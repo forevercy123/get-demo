@@ -18,5 +18,10 @@ hello aiguigu hello git!
 hello aiguigu hello git!
 11111111111111111111111
 22222222222222222bylhc
+<<<<<<< HEAD
 22222222222222222222222
 hello aiguigu hello git!222222222222
+=======
+
+22222222222222222222222
+>>>>>>> parent of aee12da (222222222222222)
